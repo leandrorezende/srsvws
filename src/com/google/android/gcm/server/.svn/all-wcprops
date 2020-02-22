@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/10149/Livro/Android/src/LivroAndroidCap20-Push-Servidor/src/com/google/android/gcm/server
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/10149/Livro/Android/src/LivroAndroidCap20-Push-Servidor/src/com/google/android/gcm/server/Constants.java
+END
+Result.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/10149/Livro/Android/src/LivroAndroidCap20-Push-Servidor/src/com/google/android/gcm/server/Result.java
+END
+InvalidRequestException.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/10149/Livro/Android/src/LivroAndroidCap20-Push-Servidor/src/com/google/android/gcm/server/InvalidRequestException.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/10149/Livro/Android/src/LivroAndroidCap20-Push-Servidor/src/com/google/android/gcm/server/Message.java
+END
+MulticastResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/10149/Livro/Android/src/LivroAndroidCap20-Push-Servidor/src/com/google/android/gcm/server/MulticastResult.java
+END
+Sender.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/10149/Livro/Android/src/LivroAndroidCap20-Push-Servidor/src/com/google/android/gcm/server/Sender.java
+END
